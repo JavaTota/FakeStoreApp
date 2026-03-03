@@ -1,0 +1,20 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: #f7f8fa;
+}
+
+.card-img-top {
+  object-fit: contain;
+  height: 220px;
+  background: white;
+}
+
+.hero {
+  background: linear-gradient(180deg, #111827, #0b1220);
+  color: white;
+  border-radius: 16px;
+  padding: 28px;
+}
